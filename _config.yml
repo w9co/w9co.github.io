@@ -28,7 +28,7 @@ twitter_username: cubiclegnome
 github_username:  w9co
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
